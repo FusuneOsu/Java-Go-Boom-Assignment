@@ -5,7 +5,7 @@
 3. Open the command line and change directory to the particular one where the source file is stored, using cd like so:
 
 ```
-cd C:\file\...
+cd C:\*Insertfiledirectory\src...
 ```
 3. To compile, type in the command prompt:
 
