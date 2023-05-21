@@ -4,9 +4,9 @@
 
 No | ID         | Name                                 | Task descriptions                                                 | Contribution %
 -- | ---------- | ------------------------------------ | ----------------------------------------------------------------- | --------------
-1  | 1221304730 | Tam Yu Heng                          | Programmed Feature 1, 5 and 6 and presented Feature 5 and 6       | 25%
-2  | 1201303111 | Muhammad Imran Syafiq bin Muzarudin  | Programmed Feature 2, 7 and 8 and Presented Feature 7 and 8       | 25%
-3  | 1211311523 | Mohamed Kamal Eldin Bilal            | Programmed and Presented Feature 3 and 4                          | 25%
+1  | 1221304730 | Tam Yu Heng                          | Programmed feature 1, 5 and 6 and presented feature 5 and 6       | 25%
+2  | 1201303111 | Muhammad Imran Syafiq bin Muzarudin  | Programmed feature 2, 7 and 8 and presented feature 7 and 8       | 25%
+3  | 1211311523 | Mohamed Kamal Eldin Bilal            | Programmed and presented feature 3 and 4                          | 25%
 4  | 1221303708 | Muhamad Syamil Imran Bin Mohd Mansor | Presented feature 1 and 2, Documentation and Video Editing/Upload | 25%
 
 
