@@ -43,6 +43,9 @@ No | Feature                                                                    
 
 
 ## D. Link to Part 2 GitHub Repo
+https://github.com/FusuneOsu/Java-Go-Boom-Assignment
 
+## E. Link to Part 2 Video Demonstration
+https://youtu.be/qIwtURSe7r8
 
 
