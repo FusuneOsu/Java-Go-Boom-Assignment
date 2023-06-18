@@ -2,12 +2,12 @@
 
 ## A. Member Contributions
 
-No | ID         | Name                                 | Task descriptions                                                                                                                 | Contribution %
--- | ---------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | --------------
+No | ID         | Name                                 | Task descriptions                                                                                                                                | Contribution %
+-- | ---------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------
 1  | 1221304730 | Tam Yu Heng                          | Programmed and Presented Feature 3 and 4, Added the trick winner part, Make the winner final score become 0, Calculate the score for all players | 25%
-2  | 1201303111 | Muhammad Imran Syafiq bin Muzarudin  |                                                                          | 25%
-3  | 1211311523 | Mohamed Kamal Eldin Bilal            | Programmed feature 1                                                                          | 25%
-4  | 1221303708 | Muhamad Syamil Imran Bin Mohd Mansor | Progammed and presented feature 6, Documentation, Video Editing                                                                   | 25%
+2  | 1201303111 | Muhammad Imran Syafiq bin Muzarudin  | Quality checking: ensuring the code meets the requirements and making sure there are no errors in the code, code cleanup                         | 25%
+3  | 1211311523 | Mohamed Kamal Eldin Bilal            | Programmed feature 1                                                                                                                             | 25%
+4  | 1221303708 | Muhamad Syamil Imran Bin Mohd Mansor | Progammed and presented feature 6, Documentation, Video Editing                                                                                  | 25%
 
 
 ## B. Part 1 Feature Completion (Latest)
